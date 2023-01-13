@@ -3,7 +3,7 @@ title: ALICE
 parent: Pinned Insects
 grand_parent: Workflows
 ---
-# ALICE - Pinned Insect Digitisation
+# Pinned Insects No Label Removal (Multiple Cameras) - ALICE
 {: .no_toc }
 
   {: .no_toc .text-delta }
